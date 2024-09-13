@@ -11,4 +11,5 @@ This project uses an Arduino UNO to display a message on a 16x2 LCD screen.
 4. Upload the code to your Arduino UNO.
 
 ![WhatsApp Image 2024-09-13 at 14 32 05](https://github.com/user-attachments/assets/e15ec32d-a565-4cdd-9cd5-1cea008a9b0e)
-![WhatsApp Image 2024-09-13 at 14 32 04](https://github.com/user-attachments/assets/02280c76-d099-4679-b29a-0e6d3c8e4680)
+
+![WhatsApp Image 2024-09-13 at 14 32 04](https://github.com/user-attachments/assets/d927d33e-dbcd-45cc-be5b-96897d731cb0)
