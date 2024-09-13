@@ -1,6 +1,6 @@
 # Arduino LCD Message Display Project
 
-This project uses an Arduino UNO to display a message on a 16x2 LCD screen.
+This project uses an Arduino UNO to display a message on a 16x2 LCD screen. Since I didn't have potentiometer, I couldn't control the contrast of the screen but with integrating potentiometer you can control the contrast manually.
 
 ## Setup
 
