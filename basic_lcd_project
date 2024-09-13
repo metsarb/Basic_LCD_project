@@ -1,0 +1,19 @@
+#include <LiquidCrystal.h>
+
+//Taking pin numbers to understand which pin is going to be used.
+LiquidCrystal lcd(12,11,5,4,3,2);
+
+// Setting the LCD to 16*2 and  printing things you want to see
+void setup(){
+  lcd.begin(16,2);
+
+  lcd.print("Hello World!");
+}
+
+void loop(){
+  delay(2000);
+
+  lcd.setCursor(0,1);
+  lcd.print("Hello World!");
+
+}
